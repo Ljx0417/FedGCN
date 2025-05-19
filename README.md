@@ -1,3 +1,3 @@
 # FedGCN
 Federated Graph-Level Clustering Network
-# The code is available soon.
+# The code will be available soon.
